@@ -13,7 +13,7 @@ def test_mul():
 def test_power():
     assert power() == "The power is : " + '8'
 def test_exp():
-    assert exp() == "The expression is : " + '13'
+    assert exp() == "The expression is : " + '14'
 
 #from app import index
 
